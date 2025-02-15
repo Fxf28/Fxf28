@@ -1,16 +1,13 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
-**Fxf28/Fxf28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Faiz Fajar**.<br>
 
-Here are some ideas to get you started:
+Saya mahasiswa semester 5 jurusan **Teknologi Informasi** di **Politeknik Nest**.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya tertarik pada pengembangan perangkat lunak.<br>
+
+Saya sangat antusias untuk terus belajar dan berkontribusi dalam dunia teknologi informasi.<br>
+
+Jika ada yang ingin berdiskusi lebih lanjut atau berbagi pengalaman, saya sangat terbuka untuk berkenalan!<br>
+
+**Terima kasih**.<br>
