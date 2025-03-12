@@ -12,9 +12,9 @@ Saya adalah mahasiswa semester 6 di **Politeknik Nest**, dengan ketertarikan bes
 
 ## 📫 Hubungi Saya  
 Ingin berdiskusi, berbagi pengalaman, atau berkolaborasi dalam proyek? Jangan ragu untuk menghubungi saya!  
-📌 **GitHub**: [github.com/Fxf28](https://github.com/Fxf28)  
-📌 **LinkedIn**: [linkedin.com/in/faiz-fajar-93134923b/](https://linkedin.com/in/faiz-fajar-93134923b/) 
-Mari berkembang bersama di dunia teknologi! 🚀✨  
+📌 **GitHub**: <a href="https://github.com/Fxf28" target="_blank">Profil GitHub saya</a>  
+📌 **LinkedIn**: <a href="https://linkedin.com/in/faiz-fajar-93134923b/" target="_blank">Profil LinkedIn saya</a>  
+Mari berkembang bersama di dunia teknologi! 🚀✨ 
 
 ---  
 
@@ -32,6 +32,6 @@ I am a 6th-semester student at **Politeknik Nest**, passionate about **software 
 
 ## 📫 Contact Me  
 Interested in discussing, sharing experiences, or collaborating on a project? Feel free to reach out!  
-📌 **GitHub**: [github.com/Fxf28](https://github.com/Fxf28)  
-📌 **LinkedIn**: [linkedin.com/in/faiz-fajar-93134923b/](https://linkedin.com/in/faiz-fajar-93134923b/) 
+📌 **GitHub**: <a href="https://github.com/Fxf28" target="_blank">My GitHub Profile</a>  
+📌 **LinkedIn**: <a href="https://linkedin.com/in/faiz-fajar-93134923b/" target="_blank">My LinkedIn Profile</a>  
 Let's grow together in the tech world! 🚀✨
