@@ -1,24 +1,4 @@
-# 👋 Halo, saya Faiz Fajar!  
-
-🚀 **Mahasiswa Teknologi Informasi** | 💻 **Software Development Enthusiast**  
-
-Saya adalah mahasiswa semester 6 di **Politeknik Nest**, dengan ketertarikan besar dalam **pengembangan perangkat lunak**. Saya selalu antusias untuk mempelajari teknologi baru dan mengembangkan solusi inovatif dalam dunia **IT**.  
-
-## 🔧 Keahlian & Minat  
-- Backend & Frontend Development  
-- Laravel, Vue.js, Python  
-- API Development & Database Management  
-- UI/UX & Tailwind CSS  
-
-## 📫 Hubungi Saya  
-Ingin berdiskusi, berbagi pengalaman, atau berkolaborasi dalam proyek? Jangan ragu untuk menghubungi saya!  
-📌 **GitHub**: <a href="https://github.com/Fxf28">Profil GitHub saya</a>  
-📌 **LinkedIn**: <a href="https://linkedin.com/in/faiz-fajar-93134923b/">Profil LinkedIn saya</a>  
-Mari berkembang bersama di dunia teknologi! 🚀✨ 
-
----  
-
-# 👋 Hello, I'm Faiz Fajar!  
+ # 👋 Hello, I'm Faiz Fajar!  
 
 🚀 **Information Technology Student** | 💻 **Software Development Enthusiast**  
 
