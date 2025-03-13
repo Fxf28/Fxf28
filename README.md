@@ -9,6 +9,5 @@ I am a 6th-semester student at **Politeknik Nest**, passionate about **software 
 
 ## 📫 Contact Me  
 Interested in discussing, sharing experiences, or collaborating on a project? Feel free to reach out!  
-📌 **GitHub**: <a href="https://github.com/Fxf28">My GitHub Profile</a>  
 📌 **LinkedIn**: <a href="https://linkedin.com/in/faiz-fajar-93134923b/">My LinkedIn Profile</a>  
 Let's grow together in the tech world! 🚀✨
