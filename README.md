@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello World!, I'm Faiz:
 
 I am a currently studying at Politeknik Nest, <br>passionate about software development and machine learning. <br>I am always eager to learn new technologies and develop innovative solutions in the IT world.
 
