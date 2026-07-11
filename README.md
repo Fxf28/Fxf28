@@ -1,8 +1,4 @@
 <section>
-  <img src="banner.png" alt="GitHub Banner" width="100%" />
-</section>
-
-<section>
   <h2>👋 Hey there!</h2>
   <p>I’m <strong>Faiz Fajar</strong>, a tech enthusiast and lifelong learner on a mission to transform ideas into reality. Currently diving deep into software development and machine learning at <strong>Politeknik Nest</strong>, I thrive on crafting elegant code, exploring new frameworks, and building projects that make people’s lives easier.</p>
 </section>
