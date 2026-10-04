@@ -1,190 +1,80 @@
 <div align="center">
 
-# Hi there, I'm Faiz Fajar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=150&section=header&text=Faiz%20Fajar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-### Software Engineer | Machine Learning Engineer | AI & Full-Stack Developer
+### Software Engineer · Full-Stack Developer · AI / Machine Learning
 
-Building AI-powered applications, intelligent web systems, and scalable software solutions.
+I build, design, and deploy software across the stack.
 
 <p>
   <a href="https://github.com/Fxf28">
-    <img src="https://komarev.com/ghpvc/?username=Fxf28&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=Fxf28&label=Profile%20Views&color=2563EB&style=flat-square" />
   </a>
 </p>
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Development;Web+Applications;AI+%26+Machine+Learning;APIs+%26+Backend+Systems;From+Idea+to+Deployment" />
+
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About
 
-I'm a Software Engineer specializing in **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Web Development**.
+I'm a software engineer focused on **full-stack development**, with experience in AI, machine learning, IoT, and digital products.
 
-As the **Founder of D.NET**, I build modern web applications, machine learning systems, and intelligent digital solutions—from concept and architecture to deployment.
+I'm the founder of **D.NET** and have worked on **50+ projects** ranging from web applications and business systems to AI and IoT projects.
 
-I enjoy solving real-world problems through clean software engineering, applied AI, and scalable system design.
+I currently study at **Universitas Duta Bangsa (UDB)** after previously studying at **Politeknik Nest**.
 
----
+I also have experience as a **Programming Laboratory Teaching Assistant at Universitas Sebelas Maret**.
 
-# 🏆 Highlights
-
-- 🚀 Founder & Software Developer at **D.NET**
-- 🤖 AI Engineer Cohort — **IBM SkillsBuild × PIJAK**
-- 🧠 Top **10% Graduate** — Coding Camp powered by DBS Foundation × Dicoding
-- 👨‍🏫 Coding Teacher — **Akademia by Ruangguru**
-- 🎓 Reappointed Programming Laboratory Teaching Assistant — Universitas Sebelas Maret
-- 💻 Delivered **8+ software projects** across education, business, AI, and IoT
+I'm comfortable taking a project from **planning and interface design to development, integration, deployment, and maintenance**.
 
 ---
 
-# 🚀 Featured Projects
-
-## ♻️ Daurtica
-
-AI-powered waste classification platform developed for recycling education.
-
-**Tech Stack**
-
-- TensorFlow
-- Python
-- Next.js
-- Computer Vision
-
----
-
-## 📚 Learning Management System (LMS)
-
-Modern learning management platform for educational institutions.
-
-**Tech Stack**
-
-- Next.js
-- React
-- Express.js
-- PostgreSQL
-
----
-
-## 📖 Digital Library System
-
-Web-based library management system.
-
-**Tech Stack**
-
-- React
-- Node.js
-- PostgreSQL
-
----
-
-## 🗑 Smart Trash Bin IoT
-
-Smart waste monitoring system integrating ESP32-CAM, Computer Vision, and ThingSpeak for real-time trash status detection.
-
-**Tech Stack**
-
-- ESP32-CAM
-- Python
-- TensorFlow
-- ThingSpeak
-
----
-
-## 🏢 Company Profile Platforms
-
-Developed modern company profile websites and digital marketing platforms for organizations.
-
-Projects include:
-
-- BCSB
-- PNTC
-- BPD Bali Digital Flipbook
-
----
-
-# 💻 Tech Stack
-
-### Languages
+## Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,php,html,css" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-**Also working with**
-
-- TensorFlow.js
-- Computer Vision
-- Deep Learning
-- Machine Learning
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,nextjs,tailwind,nodejs,express,tensorflow,postgres,mysql,mongodb,git,github,docker,vercel,figma" />
 </p>
 
 ---
 
-# 🎯 Current Focus
+## Selected Projects
 
-Currently exploring and building projects in:
+**Daurtica**  
+AI-powered waste classification platform.  
+`Python` `TensorFlow` `Next.js`
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning Engineering
-- 👁️ Computer Vision
-- 🌐 Full-Stack Development
-- 📱 Modern Web Applications
-- 📡 IoT Solutions
+**Learning Management System**  
+LMS for educational institutions.  
+`Next.js` `Express.js` `PostgreSQL`
+
+**Smart Trash Bin**  
+IoT waste monitoring system with computer vision.  
+`ESP32-CAM` `TensorFlow` `ThingSpeak`
+
+**Digital Platforms**  
+Company profiles, digital publishing, business systems, and custom web applications.  
+`Next.js` `React` `Node.js`
 
 ---
 
-# 📈 GitHub Analytics
+## How I Work
+
+I like understanding the whole system, not just one part of it.
+
+**Plan → Design → Build → Integrate → Deploy → Maintain**
+
+That can mean working on the interface, backend, database, API, AI model, deployment, or whatever the project needs.
+
+---
+
+## Contribution
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fxf28"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fxf28&layout=compact"/>
-
-</div>
-
----
-
-# 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Fxf28&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
 
 <picture>
   <source
@@ -196,44 +86,35 @@ Currently exploring and building projects in:
     srcset="https://raw.githubusercontent.com/Fxf28/Fxf28/output/github-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution graph"
     src="https://raw.githubusercontent.com/Fxf28/Fxf28/output/github-snake.svg"
   />
 </picture>
 
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/faiz-fajar/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:faizfjr666@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Fxf28">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@Faizfajar28">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/faizf28_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Building software that solves real-world problems through AI, Machine Learning, and Software Engineering."
+<a href="https://www.linkedin.com/in/faiz-fajar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Thanks for visiting my profile!
+<a href="mailto:faizfjr666@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Fxf28">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/@Faizfajar28">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=420&lines=Build+it.;Make+it+work.;Make+it+better." />
 
 </div>
